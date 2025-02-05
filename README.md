@@ -1,5 +1,1 @@
-README 
-=)
-finished reading
-safety instructions
-!!!!!
+# Benedikt stinkt

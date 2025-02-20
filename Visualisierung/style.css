@@ -1,0 +1,36 @@
+.root{
+    -fx-background-color: green;
+    }
+.menu-bar{
+    -fx-background-radius: 5px;
+    -fx-padding: 5;
+    -fx-background-color: linear-gradient(from 0% 0% to 100% 100%, #1d6440, #1e222f);
+    -fx-text-fill: white;
+    -fx-font-family: Aptos;
+    -fx-font-size: 13;
+    }
+.menu-item{
+    -fx-background-radius: 99px;
+    -fx-padding: 5px 5px;
+    -fx-background-color: #a2ccff;
+    -fx-text-fill: black;
+    -fx-font-family: Aptos;
+}
+.menu{
+    -fx-background-radius: 15px;
+    -fx-padding: 7px 7px;
+    -fx-background-color: #419fe8;
+    -fx-text-fill: black;
+    -fx-effect: dropshadow(gaussian,rgba(0,0,0,0.5), 10,0,0,5);
+}
+.context-menu{
+    -fx-background-radius: 15px;
+    -fx-padding: 3;
+    -fx-background-color: white;
+    -fx-text-fill: black;
+    -fx-effect: dropshadow(gaussian,rgba(0,0,0,0.5), 10,0,0,5);
+}
+.separator-menu-item .separator{
+    -fx-padding: 20px 0;
+    -fx-foreground-color: transparent;
+}

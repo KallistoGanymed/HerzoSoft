@@ -26,7 +26,7 @@ public class READ
         // Hier können Sie die Punkte zum Zeichnen des Graphen verwenden
         for (Point point : points) {
             System.out.println("x: " + point.x + ", y: " + point.y);
-            //Hier kommt statt dessen der Darstellungsteil rein (Drawingarea o.ä.)
+            //Hier kommt stattdessen der Darstellungsteil rein (Drawingarea o.ä.)
         }
     }
 
